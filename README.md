@@ -81,7 +81,7 @@ Python library to easily import Data structures and Algorithms written in notebo
 ### notebook
 iPython scripts to explore Data Structures and Algorithms:
 <br>
-    - Data Structures:
+Data Structures:
     <br>
         - DynamicArray
         <br>
@@ -92,7 +92,8 @@ iPython scripts to explore Data Structures and Algorithms:
         - Queue
         <br>
         - Deque
-    - Algorithms:
+<br>
+Algorithms:
     <br>
         - binary_search
         <br>
