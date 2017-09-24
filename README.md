@@ -28,8 +28,9 @@ The work in this repository is intended to explore core concepts and provide wor
 
 
 For additional resources, check out:
-
-[Kalman and Bayesian Filters in Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)<br>
+<br>
+[Kalman and Bayesian Filters in Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
+<br>
 [Digital Signal Processing](https://github.com/spatialaudio/digital-signal-processing-lecture/tree/master/)
 
 ### lib
@@ -37,7 +38,9 @@ Python library for Signal Processing. [Nothing yet]
 
 ### notebook
 iPython scripts to explore concepts/techniques in Signal Processing:
+<br>
     - FilteringBasics
+<br>
     - KalmanFiltering
 
 ## Machine Learning
@@ -54,11 +57,17 @@ Python library to build a multi-layered fully connected Neural Network.
 
 ### notebook
 iPython scripts to explore core machine learning algorithms:
+<br>
     - Linear Regression
+<br>
     - Logistic Regression
+<br>
     - Neural Net
+<br>
     - SVM
-    - k-means
+<br>
+    - K-means
+<br>
     - PCA
 
 ## Data Structures and Algorithms
@@ -71,17 +80,28 @@ Python library to easily import Data structures and Algorithms written in notebo
 
 ### notebook
 iPython scripts to explore Data Structures and Algorithms:
+<br>
     - Data Structures:
+    <br>
         - DynamicArray
+        <br>
         - Doubly Linked List
+        <br>
         - Stack
+        <br>
         - Queue
+        <br>
         - Deque
     - Algorithms:
+    <br>
         - binary_search
+        <br>
         - selection_sort
+        <br>
         - insertion_sort
+        <br>
         - merge_sort
+        <br>
         - quick_sort
 
 ## Contact
