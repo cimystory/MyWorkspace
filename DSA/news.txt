@@ -1,0 +1,36 @@
+SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars.
+
+
+GROUND SOFTWARE ENGINEER
+
+
+OVERVIEW:
+
+As a Ground Software Engineer, you will be working with engineers around the company to develop software solutions for complex engineering problems. You will be a part of the experienced design team building integration, test, launch, and mission systems that are efficient and reliable and are enabling SpaceX to successfully increase its launch rate while also reducing operational burden. Successful candidates will be able to design software systems quickly, work alone or with other experienced developers, produce high quality code, constructively review code written by other team members and be comfortable knowing their code is a major part of our success.
+
+
+RESPONSIBILITIES:
+
+Develop the software systems used to test, launch, command and monitor the SpaceX family of Falcon Launch Vehicles and Dragon Spacecraft, including the upcoming Crew Dragon and Mars vehicles
+Configure and optimize the automated testing and deployment systems used to maintain over 100 active Ground Software systems used throughout the company
+Provide on-console support in Mission Control during vehicle launch and critical on-orbit activities
+Maintain and upgrade the DAQ/LabVIEW systems that control the launch pads and test sites
+Develop innovative solutions to enable faster, more reliable launch and test campaigns through increased automation
+Interface with National Instruments through our Center of Excellence to stay abreast of the latest DAQ/LabVIEW technologies and provide feedback into NI’s product cycle
+
+BASIC QUALIFICATIONS:
+
+BS in computer science, engineering, math, or 3 additional years of experience
+3+ years of LabVIEW programming experience
+Experience with one or more of the following programming languages: Python, C, C++, or JavaScript
+PREFERRED SKILLS AND EXPERIENCE:
+
+Demonstrated project experience developing large LabVIEW programs using object oriented programming techniques; Must have used LabVIEW as a true programming environment
+Strong understanding of basic computer networking (TCP/IP, UDP, Firewalls, VPN)
+Ability to learn new skills, languages and applications quickly (C++, MATLAB, Python, JavaScript, STK, etc.)
+Ability to work quickly and accurately in highly stressful environment during critical Launch and Mission Operations
+Ability to work in a team environment is essential; this includes following style guides, version control, issue tracking and code reviews
+Must be comfortable working in deadline driven environments with aggressive timelines; typical 50+ hour work weeks
+Must be highly technical and detail oriented
+Excellent communication skills both written and verbal
+ADDITIONAL REQUIREMENTS:
